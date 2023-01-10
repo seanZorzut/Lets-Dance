@@ -14,7 +14,7 @@ import net.runelite.client.plugins.PluginDescriptor;
 
 @Slf4j
 @PluginDescriptor(
-	name = "Dance Mod"
+	name = "More Dances"
 )
 public class MoreDancesPlugin extends Plugin
 {
